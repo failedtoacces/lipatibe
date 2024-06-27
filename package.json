@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "Backend for product management",
-  "main": "api/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
